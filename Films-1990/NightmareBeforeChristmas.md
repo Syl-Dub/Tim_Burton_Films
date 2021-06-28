@@ -1,4 +1,5 @@
-![Image](img/220px-The_nightmare_before_christmas_poster.jpeg)
+![Image](/img/220px-The_nightmare_before_christmas_poster.jpeg)
+
 # The Nightmare Before Christmas
 ## 1993
 ## Réalisation : Henry Selick
